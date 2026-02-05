@@ -15,9 +15,9 @@ Make this Valentine's Day unforgettable with a charming and interactive web expe
 
 ## How It Works
 
-- The user is greeted with a cute GIF and the question "Will you be my Valentine?".
-- Responding "No" changes the GIF and modifies the size and text of the buttons, adding a playful element to convince the user to reconsider.
-- A "Yes" click celebrates the moment with a special GIF and triggers a confetti animation, hiding the response buttons.
+- The user is greeted with this GIF https://th.bing.com/th/id/OIP.2VDlJTLdMim3Vw3EfWbZngHaEK?w=267&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3  and the question "Will you be my Valentine?".
+- Responding "No" changes the GIF and modifies the size and text of the buttons, adding a "nooo" "sei sicuro????" "sicuro sicuroooooo" "sucurissimissimo" "daii ti prego" "perfavoooore".
+- A "Yes" click celebrates the moment with this special GIFhttps://th.bing.com/th/id/OIP.0GbbuvZw6oEAgrCCy6vzaAHaHT?w=202&h=200&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3  and adding a "YEEEE HA DETTO SII !" hiding the response buttons.
 
 ## Setup
 
